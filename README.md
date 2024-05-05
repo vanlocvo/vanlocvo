@@ -2,13 +2,13 @@
   
 # Hi there <img width=42 src='https://gist.githubusercontent.com/vanlocvo/f1acb456481bbdaf891553a898f483e0/raw/celebrate-emoji.gif' />
 
-<div align='center'>
-  
-  ![meow~~!](https://img.shields.io/badge/meow~~-green)
-  # 👨‍💻
-</div>
 <div align="center">
 <img src="https://gist.githubusercontent.com/vanlocvo/f1acb456481bbdaf891553a898f483e0/raw/8dca0e9d3b79aa89d47a3e65cdbc25661a88f8c1/welcome.svg">
+</div>
+
+<div align='center'>
+  ![meow~~!](https://img.shields.io/badge/meow~~-green)
+</div>
 
 <div align="center">
   <a href="https://github.com/vanlocvo">
