@@ -2,9 +2,6 @@
   
 # Hi there <img width=42 src='https://gist.githubusercontent.com/vanlocvo/f1acb456481bbdaf891553a898f483e0/raw/celebrate-emoji.gif' />
 
-<div align="center">
-  <img src="https://gist.githubusercontent.com/vanlocvo/f1acb456481bbdaf891553a898f483e0/raw/welcome.svg"/>
-</div>
 
 ![just say meow~~](https://img.shields.io/badge/just%20say%20meow~~-green)
 
