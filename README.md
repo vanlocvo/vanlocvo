@@ -1,9 +1,11 @@
 <div align=center>
   
+<img src="https://github.com/user-attachments/assets/165ed0eb-40e6-43a4-ac5c-6693f3108db7"/>
+  
 # Hi there <img width=42 src='https://gist.githubusercontent.com/vanlocvo/f1acb456481bbdaf891553a898f483e0/raw/celebrate-emoji.gif' />
 
 <div align="center">
-  <img src="https://gist.githubusercontent.com/vanlocvo/f1acb456481bbdaf891553a898f483e0/raw/welcome.svg"/>
+  <img src="https://github.com/user-attachments/assets/2d3221bf-0ada-4ac1-8df0-432bda2b9533"/>
 </div>
 
 ![just say meow~~](https://img.shields.io/badge/just%20say%20meow~~-green)
